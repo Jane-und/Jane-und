@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jane Chiang 
-- 👀 I’m interested in アニメの制作
-- 🌱 I’m currently learning R and statistics (finance related)
-- 💞️ I’m looking to collaborate on ...(just a beginner by now, hope will get better at R)
+- 👀 I’m interested in anime and finance 
+- 🌱 I’m currently learning R and statistics (finance related) and Python
+- 💞️ I’m looking to collaborate on ...hope to be good at the languages 
 - 📫 How to reach me via janechiang098@gmail.com
 
 <!---
